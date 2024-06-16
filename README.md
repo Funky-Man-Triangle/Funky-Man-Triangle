@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I am learning data science to support my research efforts.
 
 <!--
 **Funky-Man-Triangle/Funky-Man-Triangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
